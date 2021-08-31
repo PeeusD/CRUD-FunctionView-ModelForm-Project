@@ -1,5 +1,9 @@
 # CRUD project using ModelForm with function based view and admin accessibility on Django web-based Framework.
 
+### Note: 
+-Username: admin 
+-Password: admin
+
 ## Breif Working of project
 
 ![alt text](https://github.com/PeeusD/CRUD-FunctionView-ModelForm-Project/blob/main/gitimg/Capture1.PNG?raw=true)
