@@ -13,7 +13,9 @@
 ![alt text](https://github.com/PeeusD/CRUD-FunctionView-ModelForm-Project/blob/main/gitimg/Capture5.PNG?raw=true)
 ### Database has been updated...
 ![alt text](https://github.com/PeeusD/CRUD-FunctionView-ModelForm-Project/blob/main/gitimg/Capture6.PNG?raw=true)
-### Admin Login Dashboard
+### Deleting data from database.
 ![alt text](https://github.com/PeeusD/CRUD-FunctionView-ModelForm-Project/blob/main/gitimg/Capture7.PNG?raw=true)
-### Admin Dashborad
+### Admin Dashboard
+![alt text](https://github.com/PeeusD/CRUD-FunctionView-ModelForm-Project/blob/main/gitimg/Capture8.PNG?raw=true)
+
 #### Added CRUD-functionalities from admin dashboard to manage database..
